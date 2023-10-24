@@ -1,0 +1,2 @@
+/reservation/menu/
+/reservation/bookings/
